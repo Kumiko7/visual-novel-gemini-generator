@@ -1,0 +1,5 @@
+{
+  "name": "Visual Novel AI Generator",
+  "description": "Create your own visual novel from a simple concept. The AI generates the story, characters, and anime-style scenes, which you can read and influence in real-time.",
+  "requestFramePermissions": []
+}
